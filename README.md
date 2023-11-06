@@ -11,9 +11,6 @@
 - 📫 How to reach me **sakpalvineet1401@gmail.com**
 
 <a href="https://github.com/vineet1401" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
-<a href="https://www.linkedin.com/in/vineet-sakpal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-
 <a href = "mailto:sakpalvineet1401@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
