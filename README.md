@@ -4,17 +4,20 @@
 
 
 
-- 🔭 I’m currently working on **Web Development, Python**
-- 👯 I’m looking to collaborate on **Web Development, Python**
+- 🔭 I’m currently working on **Web Development, Python, Data Science, DSA**
+- 👯 I’m looking to collaborate on **Web Development, Python, Data Science**
 - 🌱 I’m currently learning **Web Development, Python, MERN Stack**
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Front End, Web Development, Computer Science**
 - 📫 How to reach me **sakpalvineet1401@gmail.com**
 
 <a href="https://github.com/vineet1401" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/vineet-sakpal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
 <a href = "mailto:sakpalvineet1401@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Vineet Sakpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Vineet Sakpal" height="30" width="40" /></a><a href="https://www.leetcode.com/vineet1401" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="vineet1401" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sakpalvinopua" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sakpalvinopua" height="30" width="40" /></a><a href="https://www.codechef.com/users/https://www.codechef.com/users/sakpalvineet14" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="https://www.codechef.com/users/sakpalvineet14" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/vineet-sakpal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Vineet Sakpal" height="30" width="40" /></a><a href="https://www.leetcode.com/vineet1401" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="vineet1401" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/sakpalvinopua" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/sakpalvinopua" height="30" width="40" /></a><a href="https://www.codechef.com/users/https://www.codechef.com/users/sakpalvineet14" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="https://www.codechef.com/users/sakpalvineet14" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
